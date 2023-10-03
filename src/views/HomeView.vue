@@ -14,22 +14,22 @@
 <!--cards-->
   <div class = " bg-gray-50 flex" >
     <div class = "w-full grid grid-cols-4 gap-4 pl-24 pr-24">
-      <div class = " p-5 my-8 rounded shadow-lg shadow-gray-200 dark:shadow-gray-900 bg-white dark:bg-gray-800 duration-300 hover:-translate-y-1 justify-center"> 
+      <div class = " p-5 my-8 rounded shadow-lg shadow-gray-200 dark:shadow-gray-400 bg-white dark:bg-gray-100 duration-300 hover:-translate-y-1 justify-center"> 
         <div class = "text-lg font-semibold">
           Effortless Image Editing
         </div>
-         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed cursus nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed cursus nunc </div>
-      <div class = "p-5 my-8 rounded shadow-lg shadow-gray-200 dark:shadow-gray-900 bg-white dark:bg-gray-800 duration-300 hover:-translate-y-1">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed cursus nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed cursus nunc </div>
+      <div class = "p-5 my-8 rounded shadow-lg shadow-gray-200 dark:shadow-gray-400 bg-white dark:bg-gray-100 duration-300 hover:-translate-y-1">
         <div class = "text-lg font-semibold">
           Citizen Engagement
         </div>  
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       </div>
-      <div class = "p-5 my-8 rounded shadow-lg shadow-gray-200 dark:shadow-gray-900 bg-white dark:bg-gray-800 duration-300 hover:-translate-y-1"> 
+      <div class = "p-5 my-8 rounded shadow-lg shadow-gray-200 dark:shadow-gray-400 bg-white dark:bg-gray-100 duration-300 hover:-translate-y-1"> 
         <div class = "text-lg font-semibold">Accessible Design</div> 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       </div>
-      <div class = "p-5 my-8 rounded shadow-lg shadow-gray-200 dark:shadow-gray-900 bg-white dark:bg-gray-800 duration-300 hover:-translate-y-1"> 
+      <div class = "p-5 my-8 rounded shadow-lg shadow-gray-200 dark:shadow-gray-400 bg-white dark:bg-gray-100 duration-300 hover:-translate-y-1"> 
         <div class = "text-lg font-semibold">
           Shareable Content
         </div> 
@@ -46,7 +46,14 @@
       <h2 class = "font-bold text-2xl ml-20 pl-5 text-gray-500">Who are we?</h2>
       <h1 class = "font-black text-4xl ml-20 pl-5 pt-1"> Our Research Group</h1>
       <p class = " ml-20 pl-5 pt-5"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed cursus nunc. Donec aliquam, tellus ut lacinia eleifend, odio sapien  faucibus dui, eget egestas tellus purus ac quam. Duis scelerisque, ante  at ornare vulputate, lacus urna condimentum nisl, a placerat dui dolor a  elit. Sed malesuada rhoncus mi quis vestibulum. Pellentesque habitant  morbi tristique senectus et netus et malesuada fames ac turpis egestas.  Etiam diam arcu, feugiat non egestas ac, tempus in libero. Nullam vel  posuere odio. In eget accumsan arcu. Etiam varius eget felis id  tristique. </p>
-
+      <h2 class = "ml-20 pl-5 pt-5 font-bold text-2xl text-gray-500"> In short: </h2>
+      <div class = "flex ml-20 pl-10 pt-3">
+        <ul class=" list-image-[url(checkmark1.png)] list-image-pb-3 space-y-2 rounded-md p-2 ml-10">
+          <li class = " pl-3 leading-normal"> Donec aliquam, tellus ut lacinia eleifend, odio sDonec aliquam, tellus ut lacinia eleifend, odio s </li>
+          <li> bananana</li>
+          <li> and bananana! </li>
+        </ul>
+      </div>
     </div>
     
     <div> 
